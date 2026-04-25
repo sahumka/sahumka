@@ -1,6 +1,6 @@
 # Shiven Ahuja
 
-Building practical AI and automation projects with real-world impact.
+Data nerd building practical AI and automation projects with real-world impact.
 
 ## Featured Work
 
