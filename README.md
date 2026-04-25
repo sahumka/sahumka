@@ -5,7 +5,7 @@ Data nerd building practical AI and automation projects with real-world impact.
 ## Featured Work
 
 - **Wedding Album Tool**  
-  AI-assisted photo review and sequencing app (Flask + React).  
+  Photo review and sequencing app (Flask + React).  
   https://github.com/sahumka/wedding-album-tool
 
 - **BMW Scraper**  
