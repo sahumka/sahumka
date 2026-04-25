@@ -31,5 +31,5 @@ AI/ML Engineer, Applied AI Engineer, Automation Engineer, Data/ML Product Roles
 ## Contact
 
 - GitHub: https://github.com/sahumka
-- LinkedIn: (add your link)
-- Email: (add your best email)
+- LinkedIn: https://www.linkedin.com/in/shiven-krishan-ahuja/
+- Email: shiven.k.ahuja@gmail.com
